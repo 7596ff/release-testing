@@ -6,7 +6,7 @@ pub fn get_message() -> Message {
     }
 }
 
-pub fn get_channel() -> Message {
+pub fn get_channel() -> Channel {
     Channel {
         name: String::from("channel name"),
     }
