@@ -1,0 +1,2 @@
+[workspace]
+members = ["release-testing-http", "release-testing-model", "release-testing"]
